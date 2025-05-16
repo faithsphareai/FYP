@@ -1,0 +1,9 @@
+faiss-cpu
+langchain_groq
+sentence_transformers
+langchain-community
+fastapi
+uvicorn
+transformers
+torch
+langchain_huggingface
